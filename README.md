@@ -34,11 +34,9 @@ Currently, I am working with **Golang, gRPC, and distributed systems**, while co
 
 ### 📊 Github Stats
 
-<a href="https://github.com/thangtranitwork">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thangtranitwork&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangtranitwork&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangtranitwork&theme=default)
-</a>
 
 <br>
 
